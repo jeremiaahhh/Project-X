@@ -1,0 +1,2 @@
+# Root requirements for Project-X
+-r backend/requirements.txt
